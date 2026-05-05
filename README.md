@@ -159,6 +159,12 @@ likely still install it via pkgsrc or nix.
 [sets]: https://github.com/oasislinux/oasis/blob/master/sets.lua
 [pkg]: https://github.com/oasislinux/oasis/blob/master/pkg
 
+## Screenshot
+
+People like screenshots, so here's one of oasis:
+
+![Screenshot](/oasislinux/oasis/wiki/oasis.png)
+
 ## Contact
 
 There is a mailing list at
