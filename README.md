@@ -163,7 +163,7 @@ likely still install it via pkgsrc or nix.
 
 People like screenshots, so here's one of oasis:
 
-![Screenshot](/oasislinux/oasis/wiki/oasis.png)
+![Screenshot](https://github.com/oasislinux/oasis/wiki/oasis.png)
 
 ## Contact
 
